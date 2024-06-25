@@ -3,5 +3,9 @@ p tag default margin hota haine
 ol>li
 point wise ul>li
 type="i" start="5"
+inline and block difference mean
+block is take 100% width but inline is not take 100% width
+block example div ,p,h1,
+inline example span,img,i,
 
 
