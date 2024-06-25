@@ -1,0 +1,7 @@
+p tag default margin hota haine
+1 2 and 3 and 4
+ol>li
+point wise ul>li
+type="i" start="5"
+
+
