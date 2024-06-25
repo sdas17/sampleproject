@@ -8,4 +8,32 @@ block is take 100% width but inline is not take 100% width
 block example div ,p,h1,
 inline example span,img,i,
 
+global attribute and custom attribute
+=============================================================
+global attribute
+-----------------
+style attribute is global attribute
+title is working on tool tip
+hidden 
+class
+id
+data-title='s'
+
+
+custom attribute
+------------------
+
+
+semantic tag 
+<navbar>
+<header></header/>
+<body></body>
+<menu></menu>
+<sidebar></sidebar/>
+</body>
+<footer>
+
+
+
+
 
