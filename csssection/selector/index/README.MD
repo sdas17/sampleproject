@@ -1,0 +1,15 @@
+<!-- SELECTOR BASICALLY 4 TYPE -->
+ATTRIBUTE SELECTOR
+
+USE GLOBAL AND CUSTOM ATTRIBUTE
+using class and id 
+
+COMBINE 
+ul p {
+
+}
+
+PSUDOCOBINE
+:hover{
+    
+}

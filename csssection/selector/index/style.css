@@ -1,15 +1,31 @@
-.html {
+#html {
     color: red;
 }
-.css{
+#css{
     color: blue;
 }
-.js{
+#js{
     color: yellow;
 }
-.React{
+#React{
     color: aqua;
 }
-.Tailwind{
+#Tailwind{
     color: lightblue;
 }
+
+ul{
+    font-size: 32px;
+}
+/* attribute */
+[class="demo"] {
+    background-color: green;
+}
+/* psudeo */
+.web p {
+    background-color: green;
+}
+.web p:hover {
+color: red;
+}
+
