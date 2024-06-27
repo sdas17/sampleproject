@@ -48,7 +48,7 @@ ul
 ul
 based on jiska specificity jyada hoga wow hoga uska dom jayda hoga
 
-inline css and ! important  alway ignore karne kashusis karna chiye 
+inline css and ! important  alway ignore karne kashusis karna chiye speciity 
 
 CSS Inheritance Explained 
 acquire all thing parent let suppose example 
