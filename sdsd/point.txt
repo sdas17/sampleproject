@@ -63,6 +63,30 @@ over flow use also if using width
 word-break 
 width :% parent to width leta haine 
 % height tab kaam karega uska parent pixcel height hoga
+.parent{
+    /* width: 500px;
+    height: 500px; */
+max-width: 400px;
+height: 400px;
+}
+.child1{
+    width: 30%;
+    height: 20%;
+
+}
+.child{
+    /* width: 50%;
+    height: 25%; */
+   
+    background-color: antiquewhite;
+    /* max-width: 400px;
+    min-height: 300px; */
+
+    width: 10%;
+    height: 20%;
+
+}
+height % tab kaam karega jab px parent kuch value dogye tab kaam karega
 
 
 
