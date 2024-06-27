@@ -62,6 +62,8 @@ min-height
 over flow use also if using width
 word-break 
 width :% parent to width leta haine 
+% height tab kaam karega uska pixcel height hoga
+
 
 
 
