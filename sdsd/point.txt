@@ -87,6 +87,23 @@ height: 400px;
 
 }
 height % tab kaam karega jab px parent kuch value dogye tab kaam karega
+px height and width overflow ajata haine alway max-width and min-height use karna chiye 
+
+
+
+.child{
+ 
+    background-color: aqua;
+    padding: 10px;
+    max-width: 400px;
+min-height: 400px;
+}
+
+
+
+
+
+
 
 
 
