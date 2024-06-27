@@ -40,6 +40,15 @@ semantic tag
 
 inline class#id>.class>ul>ul>ul>
 
+inline class specificity 1000 
+id 
+class
+ul
+ul
+ul
+based on jiska specificity jyada hoga wow hoga uska dom jayda hoga
+
+inline css and ! important  alway ignore karne kashusis karna chiye 
 
 
 
