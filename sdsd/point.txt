@@ -55,6 +55,13 @@ acquire all thing parent let suppose example
 p under h1 
 a  under browser 
 
+box model 
+avoid width and height 
+max-width
+min-height
+over flow use also if using width
+word-break 
+width :% parent to width leta haine 
 
 
 
